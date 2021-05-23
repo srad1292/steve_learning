@@ -27,9 +27,9 @@ Assignment 2: Number Guesser using Random.
 Assignment 3: Look up what binary search is and how you can apply it to the Number Guesser and do the assignment again using that.  
 Assignment 4: Buy and sale stock  
 Assignment 5: Two Sum  
-Assignment 6: Towers of Hanoi - difficult for beginning level
-Assignment 7: Person Simple
-Assignment 8: Extendible Person
+Assignment 6: Towers of Hanoi - difficult for beginning level  
+Assignment 7: Person Simple  
+Assignment 8: Extendible Person  
 
 Mini Project 1: Battleship  
 Mini Project 2: Point of sale system  
