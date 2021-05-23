@@ -14,12 +14,12 @@ First we will use git for the first time.
 * Go to github, sign in, on the top right you will see a + where you can click and press 'New Repository'
 * Create a repository called 'Java Assignments'
 * This will take you to a page with a list of commands to run inside your bash terminal starting with 'git init'
-* Use each of these commands in order within git bash
+* Use each of these commands in order within git bash and see the next step for what to do when doing git push
+* When it asks for your username/email and password, use the personal access token you created as your password
 * Do git status and you should see all of the files you've created for the project
 * Do git add . to add them to tracking
 * Do commit commit -m 'some message you decide on'
 * Do git push
-* When it asks for your username/email and password, use the personal access token you created as your password
 * Refresh the repository on github and you should see your project there
 
 Assignment 1: Valid Palindrome  
