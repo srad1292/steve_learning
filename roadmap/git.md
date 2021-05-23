@@ -4,7 +4,13 @@
 
 Read chapters 1-3 of: <https://git-scm.com/book/en/v2>
 
-Go to: <https://github.com/> and set up a new account
+Go to: <https://github.com/> and set up a new account  
+After you create your account and login, click on your profile picture on the top right  
+Go to settings  
+Go to developer settings  
+Go to personal access tokens  
+Generate a new token that pretty much has full access  
+Make sure to write this down and probably also keep it somewhere in a text file or something
 
 Download git: <https://git-scm.com/downloads> so that you can use git bash command line
 

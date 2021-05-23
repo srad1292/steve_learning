@@ -18,7 +18,8 @@ First we will use git for the first time.
 * Do git status and you should see all of the files you've created for the project
 * Do git add . to add them to tracking
 * Do commit commit -m 'some message you decide on'
-* Do get push
+* Do git push
+* When it asks for your username/email and password, use the personal access token you created as your password
 * Refresh the repository on github and you should see your project there
 
 Assignment 1: Valid Palindrome  
@@ -26,7 +27,9 @@ Assignment 2: Number Guesser using Random.
 Assignment 3: Look up what binary search is and how you can apply it to the Number Guesser and do the assignment again using that.  
 Assignment 4: Buy and sale stock  
 Assignment 5: Two Sum  
-Assignment 6: Towers of Hanoi - difficult for beginning level  
+Assignment 6: Towers of Hanoi - difficult for beginning level
+Assignment 7: Person Simple
+Assignment 8: Extendible Person
 
 Mini Project 1: Battleship  
 Mini Project 2: Point of sale system  
