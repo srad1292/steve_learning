@@ -2,7 +2,7 @@
 
 [Table of Contents](../readme.md)
 
-Learning HTML:  
+Learning JavaScript:  
 Go to: <https://www.codecademy.com/learn/introduction-to-javascript>  
 Go through all of the free sections  
   
