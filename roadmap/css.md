@@ -13,7 +13,7 @@ Mini Assignments
 * Update your login form page.  
   * Let's style your login form in two different ways.
   * For the first, come up with your own idea of how you may want to style the form and go through with it.
-  * For the second, use this quick mockup I made in a tool called Figma: ![image info](../images/login_form_css.jpg)
+  * For the second, use this quick mockup I made in a tool called Figma: ![ScreenShot](/images/login_form_css.jpg)
   * Notice for the one I made: the entire page has a color(the normal full white is blinding), there is elevation on the sign in form section using drop shadow, and the sign in form section also isn't the default white but a very soft mix of the white and the main background color. The sign in header is a larger font than the form labels, which are larger than the form input hints. The inputs and the button have rounded corners, and the button has elevation using drop shadow.  The text is dark on light backgrounds and the text is light on dark backgrounds.  The mockup doesn't look great, I just did it quickly to show off some common design concepts and guidelines.  Take note that the elevation on the button makes it look like something you can interact with.  Take note that the contrast between text color and background color makes the page more accessible.  Take note how font size is used to differentiate between what the text represents i.e a header vs a label.
 
 * Biography page: Choose someone famous and create a simple biography page for them.
