@@ -18,3 +18,5 @@ Open a git bash terminal and run the following commands with your name and the e
 
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
+  
+It will probably help to go through both the beginner friendly courses at <https://www.codecademy.com/catalog/language/bash>
